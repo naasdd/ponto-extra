@@ -21,10 +21,12 @@ Vector3 gerarVetores()
 
 void getMagnitude()
 {
-    
+
 }
 
-void getNormalized() {}
+void getNormalized(Vector3 temp) {
+
+}
 
 int main()
 {
@@ -51,7 +53,7 @@ int main()
         switch (opcao)
         {
         case 1:
-
+            
             break;
 
         case 2:
